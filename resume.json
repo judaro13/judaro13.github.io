@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Juliana Davila",
+    "label": "Senior RoR Developer - Team Leader",
+    "picture": "",
+    "email": "judaro13@gmail.com",
+    "phone": "+57 3013562694",
+    "website": "",
+    "summary": "Juliana holds a bachelor's degree in Systems Engineer and Computer Science from the Universidad Del Valle (Cali, Colombia). She's finishing a master's degree in Information Engineering at the Universidad de los Andes (Bogota, Colombia). She has 7 years of professional experience, during that time she has helped a number of startups to develop and release their products and during her career she was able to lead a team for 2 years. She is a passionate computer programmer, she has good relationships with her co-workers and she likes to learn and help whenever is possible. As an Information Engineer she likes topics like Big Data Analysis, Recommendation Systems, Machine Learning and Scalability of the information. Juliana is very committed and responsible with her work.",
+    "location": {
+      "address": "Calle 78 #12-29",
+      "postalCode": "",
+      "city": "Bogota",
+      "countryCode": "CO",
+      "region": "Bogota DC"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "judaro13",
+        "url": "https://github.com/judaro13"
+      },
+      {
+        "network": "Skype",
+        "username": "gobolindo",
+        "url": "@gobolindo"
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Superlikers",
+      "position": "Team Leader / Developer",
+      "website": "https://superlikers.com/",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Superlikers is a professional gamification platform that helps improve the behavior of internal, external and digital communities of organizations through campaigns or gamificated programs. Some techniques and technologies used were:",
+      "highlights": [
+        "Agil development and TDD programming",
+        "Databases Architecture Design",
+        "Padrino/Sinatra, RSpec, HAML, SASS,  jQuery, Twitter Bootstrap, MongoDB and Git"
+      ]
+    },
+    {
+      "company": "Martianinteractive",
+      "position": "Consultant / Senior Developer",
+      "website": "http://www.martianinteractive.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Martianinteractive is a professional team of Rails developers with a passion for creativity and problem-solving. They help their clients realize the full potential of their business through the Internet. Martian Interactive provides visual design, application programming and online marketing services. As part of Martianinteractive team I have the responsabilities of:",
+      "highlights": [
+        "Upgrading, fixing, maintaining and coding new features in multiple Ruby on Rails applications"
+      ]
+    },
+    {
+      "company": "Humantelligence",
+      "position": "Senior Developer",
+      "website": "http://www.humantelligence.com/",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Humantelligence is software for building a highly motivated, engaged and capable workforce.  As part of HT team we achievement some objectives like",
+      "highlights": [
+        "Coding and maintaining new features",
+        "Integreate HT with multiples API REST like payment platforms(Stripe), emails services(Mandrill) and voice and message delivery(Twilio, Bulksms)",
+        "Create a recommendation system to improve a recruitment process"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad del Valle",
+      "area": "Systems Engineer and Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2002-01-01",
+      "endDate": "2010-01-01",
+      "gpa": "",
+      "courses": [
+        "Evolutionary Computation",
+        "Software Agents",
+        "User Interface Design"
+      ]
+    },
+    {
+      "institution": "Universidad de los Andes",
+      "area": "Systems Engineer ",
+      "studyType": "Master",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-01",
+      "gpa": "",
+      "courses": [
+        "Cloud Solutions Development ",
+        "Big Data Analysis",
+        "Recommendation Systems",
+        "Agile Software Development Processes"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Panguages",
+      "level": "advanced",
+      "keywords": [
+        "Ruby",
+        "Phyton",
+        "Java"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "advanced",
+      "keywords": [
+        "Html / Css",
+        "Javascript / JQuery",
+        "Git",
+        "JSON / HTML",
+        "API REST"
+      ]
+    },
+    {
+      "name": "Agile Development",
+      "level": "advanced",
+      "keywords": [
+        "Scrum",
+        "Product Owner",
+        "TDD",
+        "Pivotal Tracker / Basecamp"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "advanced",
+      "keywords": [
+        "Ruby on Rails",
+        "Padrino",
+        "Sinatra"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "advanced",
+      "keywords": [
+        "NoSql - MongoDB",
+        "PostgreSQL",
+        "SQlite",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "advanced",
+      "keywords": [
+        "Linux - Archlinux",
+        "Linux - Centos",
+        "Linux - Ubuntu"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "intermediate",
+      "keywords": [
+        "Hadoop / Map Reduce",
+        "Sparql / Owl / RDF (Web Semantics and Ontologies)",
+        "Mahout / Recommender101"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "keywords": []
+    },
+    {
+      "name": "Origami",
+      "keywords": []
+    },
+    {
+      "name": "Family",
+      "keywords": []
+    },
+    {
+      "name": "Nature",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": "David Cuadrado - Twilio - dcuadrado@twilio.com"
+    },
+    {
+      "name": "",
+      "reference": "Stella Miranda - Hearst - stellamariam@gmail.com"
+    },
+    {
+      "name": "",
+      "reference": "Daniel Valencia - Humantelligence - dafevara@gmail.com"
+    },
+    {
+      "name": "",
+      "reference": "Andres Blumer - Humantelligence - andres@humantelligence.com"
+    },
+    {
+      "name": "",
+      "reference": "Jorge Cuadrado - Superlikers - kuadrosxx@gmail.com"
+    },
+    {
+      "name": "",
+      "reference": "Sergio Bayona - Martianinteractive - sbayona@martianinteractive.com"
+    },
+    {
+      "name": "",
+      "reference": "Valentina Grajales - Instituto de Investigaciones de Biodiversidad Alexander von Humboldt - valegrajales@gmail.com"
+    }
+  ]
+}
