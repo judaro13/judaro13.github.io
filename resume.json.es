@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Juliana Davila",
-    "label": "Senior RoR Developer - Information Engineer",
+    "label": "Senior RoR Developer - Ingeniero de Información",
     "picture": "",
     "email": "judaro13@gmail.com",
     "phone": "+57 ",
     "website": "",
-    "summary": "Juliana holds a bachelor's degree in Systems Engineer and Computer Science from the Universidad Del Valle (Cali, Colombia). She's finishing a master's degree in Information Engineering at the Universidad de los Andes (Bogota, Colombia). She has 7 years of professional experience, during that time she has helped a number of startups to develop and release their products and during her career she was able to lead a team for 2 years. She is a passionate computer programmer, she has good relationships with her co-workers and she likes to learn and help whenever is possible. As an Information Engineer she likes topics like Big Data Analysis, Recommendation Systems, Machine Learning and Scalability of the information. Juliana is very committed and responsible with her work.",
+    "summary": "Ingeniera de Sistemas y Computación de la Universidad del Valle(Cali, Colombia). Actualmente me encuentro terminando la Maestría en Ingeniería de Sistemas(MISIS) con enfacis en Ingeniería de la Información en la Universidad de los Andes(Bogotá, Colombia). Durante mi carrera profesional he acumulado 7 años de experiencia como Desarrollador de RoR, de los cuales 2 de ellos fueron comoTeam Leader. Disfruto de programar, mantengo buenas relaciones con mis compañeros de trabajo y me gusta aprender nuevos temas. Como Ingeniera de Información me gustan los temas relacionados con análisis de Big Data, Sistemas de Recomendaciones y Sistemas Escalables. Soy comprometida y responsable con las actividades que desarrollo",
     "location": {
       "address": "El Espartillal",
       "postalCode": "",
@@ -39,37 +39,37 @@
       "website": "https://superlikers.com/",
       "startDate": "2015-09-10",
       "endDate": "2016-02-05",
-      "summary": "Cable & Wireless Communications Plc (C&W) is a full service communications and entertainment provider, operating in the Caribbean and Latin America... As C&W staff member, we had the mission to retrieve, store, process and analize all the data about the TV Cable service for the Caribbean. We use different techniques to do this as:",
+      "summary": "Cable & Wireless Communications Plc (C&W) es un proveedor de servicios de comunicaciones y entretenimiento, operando en el Caribe y América Latina ... Como miembro del personal de C&W, teníamos la misión de recuperar, almacenar, procesar y analizar todos los datos sobre el servicio de  TV por cable para el Caribe. Utilizamos diferentes técnicas para hacer esto como:",
       "highlights": [
-        "ElastichSearch for Indexing",
-        "Kibana and Logstash",
-        "Ruby and Bash scripts and Git",
+        "ElastichSearch para Indexado",
+        "Kibana y Logstash",
+        "Ruby y Bash scripts con Git",
         "Cron jobs",
-        "Multiples Queries for retrieve data to MySql, Sql, liteSql and others data bases"
+        "Multiples consultas a bases de datos como MySql, Sql, liteSql y otros"
       ]
     },
     {
       "company": "Superlikers",
-      "position": "Team Leader / Developer",
+      "position": "Team Leader / Desarrollador",
       "website": "https://superlikers.com/",
       "startDate": "2010-01-01",
       "endDate": "2012-01-01",
-      "summary": "Superlikers is a professional gamification platform that helps improve the behavior of internal, external and digital communities of organizations through campaigns or gamificated programs. Some techniques and technologies used were:",
+      "summary": "Súper Likers es una plataforma gamification profesional que ayuda a mejorar el comportamiento de las comunidades internos, externos y digitales de las organizaciones a través de campañas o programas gamificación. Algunas de las técnicas y tecnologías utilizadas fueron:",
       "highlights": [
-        "Agil development and TDD programming",
-        "Databases Architecture Design",
-        "Padrino/Sinatra, RSpec, HAML, SASS,  jQuery, Twitter Bootstrap, MongoDB and Git"
+        "Desarrollo Agil y TDD",
+        "Diseño de Arquitecturas y Bases de Datos",
+        "Padrino/Sinatra, RSpec, HAML, SASS,  jQuery, Twitter Bootstrap, MongoDB y Git"
       ]
     },
     {
       "company": "Martianinteractive",
-      "position": "Consultant / Senior Developer",
+      "position": "Consultor / Senior Developer",
       "website": "http://www.martianinteractive.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Martianinteractive is a professional team of Rails developers with a passion for creativity and problem-solving. They help their clients realize the full potential of their business through the Internet. Martian Interactive provides visual design, application programming and online marketing services. As part of Martianinteractive team I have the responsabilities of:",
+      "summary": "Martianinteractive es un equipo profesional de desarrolladores de Rails con una pasión por la creatividad y la resolución de problemas. Ayudan a sus clientes a aprovechar todo el potencial de su negocio a través de Internet. Martianinteractive ofrece diseño visual, programación de aplicaciones y servicios de marketing en línea. Como parte del equipo de Martianinteractive tenia las responsabilidades de:",
       "highlights": [
-        "Upgrading, fixing, maintaining and coding new features in multiple Ruby on Rails applications"
+        "La actualizar, arreglar, mantener y codificar nuevas funciones en múltiples aplicaciones Ruby on Rails"
       ]
     },
     {
@@ -78,11 +78,11 @@
       "website": "http://www.humantelligence.com/",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Humantelligence is software for building a highly motivated, engaged and capable workforce.  As part of HT team we achievement some objectives like",
+      "summary": "Humantelligence es un software para la creación de una fuerza de trabajo altamente motivado, comprometido y capaz. Como parte del equipo HT logramos algunos objetivos como",
       "highlights": [
-        "Coding and maintaining new features",
-        "Integreate HT with multiples API REST like payment platforms(Stripe), emails services(Mandrill) and voice and message delivery(Twilio, Bulksms)",
-        "Create a recommendation system to improve a recruitment process"
+        "Mantener y Codificar nuevas funcionalidades",
+        "Integrar HT con multiples API REST como plataformas de pagos(Stripe), servidores de correo(Mandrill) y envios de mensajes(Twilio, Bulksms)",
+        "CCrear un sistema de recomendaciones para mejorar un proceso de contratación"
       ]
     }
   ],
@@ -90,30 +90,30 @@
   "education": [
     {
       "institution": "Universidad del Valle",
-      "area": "Systems Engineer and Computer Science",
-      "studyType": "Bachelor",
+      "area": "Ingeniero de Sistemas y Computación",
+      "studyType": "Profesional",
       "startDate": "2002-01-01",
       "endDate": "2010-01-01",
       "gpa": "",
       "courses": [
-        "Evolutionary Computation",
-        "Software Agents",
-        "User Interface Design"
+        "Computación Evolutiva",
+        "Agentes de Software",
+        "Diseño de Interfaces de Usuario"
       ]
     },
     {
       "institution": "Universidad de los Andes",
-      "area": "Systems Engineer ",
+      "area": "Ingenieria de Sistemas(MISIS)",
       "studyType": "Master",
       "startDate": "2013-01-01",
       "endDate": "2016-12-01",
       "gpa": "",
       "courses": [
-        "Knowledge Management",
-        "Cloud Solutions Development ",
-        "Big Data Analysis",
-        "Recommendation Systems",
-        "Agile Software Development Processes"
+        "Administración del Conocimiento",
+        "Desarrollo de Soluciones Cloud",
+        "Analisis de Big Data",
+        "Sistemas de Recomendación",
+        "Desarrollo Agil"
       ]
     }
   ],
@@ -121,8 +121,8 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "advanced",
+      "name": "Lenguajes de Programación",
+      "level": "Avanzado",
       "keywords": [
         "Ruby",
         "Phyton",
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "advanced",
+      "name": "Desarrollo Web",
+      "level": "Avanzado",
       "keywords": [
         "Html / Css",
         "Javascript / JQuery",
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "name": "Agile Development",
-      "level": "advanced",
+      "name": "Desarrollo Agil",
+      "level": "Avanzado",
       "keywords": [
         "Scrum",
         "Product Owner",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Frameworks",
-      "level": "advanced",
+      "level": "Avanzado",
       "keywords": [
         "Ruby on Rails",
         "Padrino",
@@ -160,8 +160,8 @@
       ]
     },
     {
-      "name": "Databases",
-      "level": "advanced",
+      "name": "Bases de Datos",
+      "level": "Avanzado",
       "keywords": [
         "NoSql - MongoDB",
         "PostgreSQL",
@@ -170,8 +170,8 @@
       ]
     },
     {
-      "name": "OS",
-      "level": "advanced",
+      "name": "Sistemas Operativos",
+      "level": "Avanzado",
       "keywords": [
         "Linux - Archlinux",
         "Linux - Centos",
@@ -180,8 +180,8 @@
       ]
     },
     {
-      "name": "Data Analysis",
-      "level": "intermediate",
+      "name": "Analisis de Datos",
+      "level": "Intermedio",
       "keywords": [
         "ElasticSearch / Kibana / Logstash",
         "Hadoop / Map Reduce",
@@ -193,11 +193,11 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Nativo"
     },
     {
       "language": "English",
-      "fluency": "intermediate"
+      "fluency": "Intermedio"
     }
   ],
   "interests": [
