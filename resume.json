@@ -6,9 +6,9 @@
     "email": "judaro13@gmail.com",
     "phone": "+57 ",
     "website": "",
-    "summary": "Juliana holds a bachelor's degree in Systems Engineer and Computer Science from the Universidad Del Valle (Cali, Colombia). She's finishing a master's degree in Information Engineering at the Universidad de los Andes (Bogota, Colombia). She has 7 years of professional experience, during that time she has helped a number of startups to develop and release their products and during her career she was able to lead a team for 2 years. She is a passionate computer programmer, she has good relationships with her co-workers and she likes to learn and help whenever is possible. As an Information Engineer she likes topics like Big Data Analysis, Recommendation Systems, Machine Learning and Scalability of the information. Juliana is very committed and responsible with her work.",
+    "summary": "Juliana holds a master's degree in Information Engineering at the Universidad de los Andes (Bogota, Colombia), also holds a bachelor's degree in Systems Engineer and Computer Science from the Universidad Del Valle (Cali, Colombia). She has 7 years of professional experience and during that time she has helped a number of startups to develop and release their products and during her career she was able to lead a team for 4 years. She is a passionate computer programmer, she has good relationships with her co-workers and she likes to learn and help whenever is possible. As an Information Engineer she likes topics like Big Data Analysis, Recommendation Systems, Machine Learning and Scalability of the information. Juliana is very committed and responsible with her work.",
     "location": {
-      "address": "El Espartillal",
+      "address": "Antiguo Country",
       "postalCode": "",
       "city": "Bogota",
       "countryCode": "CO",
@@ -32,7 +32,34 @@
       }
     ]
   },
-  "work": [
+  "work": [   
+      {
+      "company": "Liftit",
+      "position": "Tech Leader",
+      "website": "https://liftit.co/",
+      "startDate": "2017-02-01",
+      "endDate": "",
+      "summary": "Liftit is a company focused on automation and improvement of logistics proccess on companies through the use of our tecnology. As team leader, we are focused on a proyect for generate and optimize routes for last mile delivery. In liftit we use tecnologies like:",
+      "highlights": [
+        "Golang,Python and Elixir(funtional programming) and Git amoung others",
+        "Microservices",
+        "Postgresql",
+        "APIs"
+      ]
+    },
+     {
+      "company": "Vlipco",
+      "position": "Senio FullStack Developer",
+      "website": "https://vlip.co/",
+      "startDate": "2016-07-01",
+      "endDate": "2017-02-01",
+      "summary": "Vlipco is a company that is focused in online payments. We work in a application to allow restaurants customer to facilitate request and pay their bills with a smart phone. In my funtions I have to mantain a multiples ruby aplications and APIs. We use different tecnlogies like:",
+      "highlights": [
+        "Ruby, Ruby on Rails, Padrino, funtional programming(ELM), Cordova, Bash scripts and Git amoung others",
+        "Cron jobs",
+        "Diferent databases like MongoDB and MySql"
+      ]
+    },
     {
       "company": "Cables & Wirles",
       "position": "Big Data Administrator",
@@ -225,11 +252,15 @@
   "references": [
     {
       "name": "",
-      "reference": "David Cuadrado - Twilio - dcuadrado@twilio.com"
+      "reference": "David Cuadrado - Truora - dcuadrado@truora.com"
     },
     {
       "name": "",
-      "reference": "Stella Miranda - Hearst - stellamariam@gmail.com"
+      "reference": "Michel Perez - michel.ingesoft@gmail.com"
+    },
+    {
+      "name": "",
+      "reference": "Stella Miranda - stellamariam@gmail.com"
     },
     {
       "name": "",

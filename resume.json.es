@@ -6,9 +6,9 @@
     "email": "judaro13@gmail.com",
     "phone": "+57 ",
     "website": "",
-    "summary": "Ingeniera de Sistemas y Computación de la Universidad del Valle(Cali, Colombia). Actualmente me encuentro terminando la Maestría en Ingeniería de Sistemas(MISIS) con enfacis en Ingeniería de la Información en la Universidad de los Andes(Bogotá, Colombia). Durante mi carrera profesional he acumulado 7 años de experiencia como Desarrollador de RoR, de los cuales 2 de ellos fueron comoTeam Leader. Disfruto de programar, mantengo buenas relaciones con mis compañeros de trabajo y me gusta aprender nuevos temas. Como Ingeniera de Información me gustan los temas relacionados con análisis de Big Data, Sistemas de Recomendaciones y Sistemas Escalables. Soy comprometida y responsable con las actividades que desarrollo",
+    "summary": "Magister en Ingeniera de Sistemas y Computación de la Universidad de los Andes e Ingeniera de Sistemas y Computación  de la Universidad del Valle(Cali, Colombia). Durante mi carrera profesional he acumulado 7 años de experiencia como Desarrollador en RoR y en Golang, de los cuales 4 de ellos fueron como Team Leader. Disfruto de programar, mantengo buenas relaciones con mis compañeros de trabajo y me gusta aprender nuevos temas. Como Ingeniera de Información me gustan los temas relacionados con análisis de Big Data, Sistemas de Recomendaciones y Sistemas Escalables. Soy comprometida y responsable con las actividades que desarrollo",
     "location": {
-      "address": "El Espartillal",
+      "address": "Antiguo Country",
       "postalCode": "",
       "city": "Bogota",
       "countryCode": "CO",
@@ -33,6 +33,33 @@
     ]
   },
   "work": [
+      {
+      "company": "Liftit",
+      "position": "Tech Leader",
+      "website": "https://liftit.co/",
+      "startDate": "2017-02-01",
+      "endDate": "",
+      "summary": "Liftit es una empresa que se enfoca en la automatización y mejoramiento de los procesos logísticos de las empresas a través del uso de la tecnologías. Mi función principal es de líder técnico en equipo del laboratorio, el cual se enfoca en el proceso de generación y optimización de rutas para entregas de ultima milla. En liftit utilizamos tecnologías como:",
+      "highlights": [
+        "Golang,Python and Elixir(funtional programming) and Git amoung others",
+        "Microservices",
+        "Postgresql",
+        "APIs"
+      ]
+    },
+     {
+      "company": "Vlipco",
+      "position": "Senio FullStack Developer",
+      "website": "https://vlip.co/",
+      "startDate": "2016-07-01",
+      "endDate": "2017-02-01",
+      "summary": "Vlipco es una compania que es enfoca en pagos only, para lo cual se desarrollo una aplicacion que permite a los cliente de los restaurantes pedir y pagar sus cuentas a traves de su celular. En mis funciones, debia mantener multiples aplicaciones Ruby y APIs y usabamos tecnologías como:",
+      "highlights": [
+        "Ruby, Ruby on Rails, Padrino, funtional programming(ELM), Cordova, Bash scripts y Git amoung others",
+        "Cron jobs",
+        "Diferentes base de datos como: MongoDB y MySql"
+      ]
+    },
     {
       "company": "Cables & Wirles",
       "position": "Big Data Administrator",
@@ -223,13 +250,17 @@
     }
   ],
   "references": [
-    {
+ {
       "name": "",
-      "reference": "David Cuadrado - Twilio - dcuadrado@twilio.com"
+      "reference": "David Cuadrado - Truora - dcuadrado@truora.com"
     },
     {
       "name": "",
-      "reference": "Stella Miranda - Hearst - stellamariam@gmail.com"
+      "reference": "Michel Perez - michel.ingesoft@gmail.com"
+    },
+    {
+      "name": "",
+      "reference": "Stella Miranda - stellamariam@gmail.com"
     },
     {
       "name": "",
